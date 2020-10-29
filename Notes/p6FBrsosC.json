@@ -1,0 +1,1 @@
+{"_id":"note:p6FBrsosC","title":"Pass BestParams to New Model","content":"```python\n\nnew_model = KNeighborsClassifier(**knn_gridsearch_model.best_params_)","tags":["gridsearch"],"folderPathname":"/","data":{},"createdAt":"2020-10-22T18:55:58.597Z","updatedAt":"2020-10-22T18:56:20.991Z","trashed":false,"_rev":"HUnV5ZEbo"}
